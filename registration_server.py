@@ -64,7 +64,7 @@ COMPETITION_START = datetime(
     tzinfo=COMPETITION_TIMEZONE
 )
 
-LOGO_FILE = BASE_DIR / "southeastcon_logo.png"
+LOGO_FILE = BASE_DIR / "images/southeastcon_logo.png"
 
 
 # ============================================================
