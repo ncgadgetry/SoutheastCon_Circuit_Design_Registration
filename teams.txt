@@ -1,0 +1,22 @@
+M,UniversityofCentralFlorida
+M,VMI
+M,VirginaStateUniversity
+M,Wildcats
+M,TheCitadel
+M,TNTECHMAN
+M,SouthernAdventistUniversity
+M,FloridaPolytechnicUniversity
+M,ClosedLoopTroupe
+M,Wolfpack
+M,VirginiaStateUniversity
+M,BigBirdsUniversityOfNorthFlorida
+M,ValenciaCollege
+M,JacksonvilleStateUniversity
+M,FAMU-FSU College of Engineering
+M,UniversityOfFlorida
+Mn,iversityOfLoisville
+M,U'niversityOfTennesseeKnoxville
+M,WesternCarolinaUniversity
+M,GeorgiaSouthernUniversity
+M,UNC_Charlotte
+M,UniversityOfTennesseeAtMartin
